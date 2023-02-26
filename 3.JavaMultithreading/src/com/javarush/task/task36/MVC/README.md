@@ -12,7 +12,7 @@ void onUserChange(String name, long id, int level)
 void changeUserData(String name, long id, int level)
 где name и level - это новые значения для юзера с выбранным id
 
-2. Добавь в main вызов fireEventUserChanged
+2. Добавь в main вызов fireEventUserChanged 
 
 
 ****************************************************************
